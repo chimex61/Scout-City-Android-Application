@@ -32,6 +32,17 @@ This is a location based android application which provides the users with lates
 * Firebase for login, authentication and storage.
 
 ## Sample Screen Shots
+![splashscreen](https://user-images.githubusercontent.com/22403046/35500469-8fa1f03c-04a4-11e8-997d-7edf20fd162e.jpg) ![login screen](https://user-images.githubusercontent.com/22403046/35500539-c7e91cd6-04a4-11e8-96ee-b2124fe3c927.jpg)
+
+![pop up activity](https://user-images.githubusercontent.com/22403046/35501058-b9d81866-04a6-11e8-945a-57fbf9b48a58.png) ![profile screen](https://user-images.githubusercontent.com/22403046/35501155-1dd68136-04a7-11e8-8dd2-10842e6f67df.png)
+
+![navigation drawer](https://user-images.githubusercontent.com/22403046/35500600-fe75a576-04a4-11e8-8d72-4b5f16c8c1b4.jpg) ![main screen](https://user-images.githubusercontent.com/22403046/35500586-ef977c46-04a4-11e8-9858-c4e9dda3f6c0.jpg)
+
+
+![recycler view](https://user-images.githubusercontent.com/22403046/35500653-34de97d0-04a5-11e8-816b-474eb2c896c3.png) ![gps screen](https://user-images.githubusercontent.com/22403046/35501044-af07283c-04a6-11e8-930c-b4b9d0aa55b3.png) 
+
+ 
+
 
 
 ## Note
